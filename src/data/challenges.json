@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "diamond_block",
+    "name": "Diamond Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/diamond_block.png"
+  },
+  {
+    "id": "grass_block",
+    "name": "Grass Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/grass_block_side.png"
+  },
+  {
+    "id": "emerald_block",
+    "name": "Emerald Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/emerald_block.png"
+  },
+  {
+    "id": "gold_block",
+    "name": "Gold Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/gold_block.png"
+  },
+  {
+    "id": "redstone_block",
+    "name": "Redstone Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/redstone_block.png"
+  },
+  {
+    "id": "mycelium",
+    "name": "Mycelium",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/mycelium_side.png"
+  },
+  {
+    "id": "lapis_block",
+    "name": "Lapis Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/lapis_block.png"
+  },
+  {
+    "id": "copper_block",
+    "name": "Copper Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/copper_block.png"
+  },
+  {
+    "id": "diamond_ore",
+    "name": "Diamond Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/diamond_ore.png"
+  },
+  {
+    "id": "emerald_ore",
+    "name": "Emerald Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/emerald_ore.png"
+  },
+  {
+    "id": "gold_ore",
+    "name": "Gold Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/gold_ore.png"
+  },
+  {
+    "id": "redstone_ore",
+    "name": "Redstone Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/redstone_ore.png"
+  },
+  {
+    "id": "iron_ore",
+    "name": "Iron Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/iron_ore.png"
+  },
+  {
+    "id": "lapis_ore",
+    "name": "Lapis Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/lapis_ore.png"
+  },
+  {
+    "id": "copper_ore",
+    "name": "Copper Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/copper_ore.png"
+  },
+  {
+    "id": "amethyst_block",
+    "name": "Amethyst Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/amethyst_block.png"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/obsidian.png"
+  },
+  {
+    "id": "tnt",
+    "name": "TNT",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/tnt_side.png"
+  },
+  {
+    "id": "crafting_table",
+    "name": "Crafting Table",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/crafting_table_front.png"
+  },
+  {
+    "id": "furnace_on",
+    "name": "Furnace",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/furnace_front_on.png"
+  },
+  {
+    "id": "oak_planks",
+    "name": "Oak Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/oak_planks.png"
+  },
+  {
+    "id": "birch_planks",
+    "name": "Birch Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/birch_planks.png"
+  },
+  {
+    "id": "spruce_planks",
+    "name": "Spruce Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/spruce_planks.png"
+  },
+  {
+    "id": "acacia_planks",
+    "name": "Acacia Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/acacia_planks.png"
+  },
+  {
+    "id": "dark_oak_planks",
+    "name": "Dark Oak Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/dark_oak_planks.png"
+  },
+  {
+    "id": "cherry_planks",
+    "name": "Cherry Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/cherry_planks.png"
+  },
+  {
+    "id": "jungle_planks",
+    "name": "Jungle Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/jungle_planks.png"
+  },
+  {
+    "id": "oak_log",
+    "name": "Oak Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/oak_log.png"
+  },
+  {
+    "id": "spruce_log",
+    "name": "Spruce Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/spruce_log.png"
+  },
+  {
+    "id": "acacia_log",
+    "name": "Acacia Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/acacia_log.png"
+  },
+  {
+    "id": "dark_oak_log",
+    "name": "Dark Oak Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/dark_oak_log.png"
+  },
+  {
+    "id": "cherry_log",
+    "name": "Cherry Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/cherry_log.png"
+  },
+  {
+    "id": "jungle_log",
+    "name": "Jungle Log",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/jungle_log.png"
+  },
+  {
+    "id": "netherrack",
+    "name": "Netherrack",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/netherrack.png"
+  },
+  {
+    "id": "end_stone",
+    "name": "End Stone",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/end_stone.png"
+  },
+  {
+    "id": "glowstone",
+    "name": "Glowstone",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/glowstone.png"
+  },
+  {
+    "id": "red_wool",
+    "name": "Red Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/red_wool.png"
+  },
+  {
+    "id": "blue_wool",
+    "name": "Blue Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/blue_wool.png"
+  },
+  {
+    "id": "green_wool",
+    "name": "Green Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/green_wool.png"
+  },
+  {
+    "id": "yellow_wool",
+    "name": "Yellow Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/yellow_wool.png"
+  },
+  {
+    "id": "orange_wool",
+    "name": "Orange Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/orange_wool.png"
+  },
+  {
+    "id": "purple_wool",
+    "name": "Purple Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/purple_wool.png"
+  },
+  {
+    "id": "pink_wool",
+    "name": "Pink Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/pink_wool.png"
+  },
+  {
+    "id": "cyan_wool",
+    "name": "Cyan Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/cyan_wool.png"
+  },
+  {
+    "id": "lime_wool",
+    "name": "Lime Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/lime_wool.png"
+  },
+  {
+    "id": "black_wool",
+    "name": "Black Wool",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/black_wool.png"
+  },
+  {
+    "id": "jack_o_lantern",
+    "name": "Jack O' Lantern",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/jack_o_lantern.png"
+  },
+  {
+    "id": "black_terracotta",
+    "name": "Black Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/black_terracotta.png"
+  },
+  {
+    "id": "brown_terracotta",
+    "name": "Brown Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/brown_terracotta.png"
+  },
+  {
+    "id": "cyan_terracotta",
+    "name": "Cyan Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/cyan_terracotta.png"
+  },
+  {
+    "id": "gray_terracotta",
+    "name": "Gray Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/gray_terracotta.png"
+  },
+  {
+    "id": "green_terracotta",
+    "name": "Green Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/green_terracotta.png"
+  },
+  {
+    "id": "light_blue_terracotta",
+    "name": "Light Blue Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/light_blue_terracotta.png"
+  },
+  {
+    "id": "light_gray_terracotta",
+    "name": "Light Gray Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/light_gray_terracotta.png"
+  },
+  {
+    "id": "lime_terracotta",
+    "name": "Lime Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/lime_terracotta.png"
+  },
+  {
+    "id": "magenta_terracotta",
+    "name": "Magenta Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/magenta_terracotta.png"
+  },
+  {
+    "id": "orange_terracotta",
+    "name": "Orange Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/orange_terracotta.png"
+  },
+  {
+    "id": "pink_terracotta",
+    "name": "Pink Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/pink_terracotta.png"
+  },
+  {
+    "id": "purple_terracotta",
+    "name": "Purple Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/purple_terracotta.png"
+  },
+  {
+    "id": "red_terracotta",
+    "name": "Red Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/red_terracotta.png"
+  },
+  {
+    "id": "white_terracotta",
+    "name": "White Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/white_terracotta.png"
+  },
+  {
+    "id": "yellow_terracotta",
+    "name": "Yellow Terracotta",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/yellow_terracotta.png"
+  },
+  {
+    "id": "carved_pumpkin",
+    "name": "Carved Pumpkin",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/carved_pumpkin.png"
+  },
+  {
+    "id": "slime_block",
+    "name": "Slime Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/slime_block.png"
+  },
+  {
+    "id": "honey_block",
+    "name": "Honey Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/honey_block_side.png"
+  },
+  {
+    "id": "sponge",
+    "name": "Sponge",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/sponge.png"
+  },
+  {
+    "id": "hay_bale",
+    "name": "Hay Bale",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/hay_block_side.png"
+  },
+  {
+    "id": "bookshelf",
+    "name": "Bookshelf",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/bookshelf.png"
+  },
+  {
+    "id": "soul_sand",
+    "name": "Soul Sand",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/soul_sand.png"
+  },
+  {
+    "id": "nether_bricks",
+    "name": "Nether Bricks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/nether_bricks.png"
+  },
+  {
+    "id": "magma_block",
+    "name": "Magma Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/magma.png"
+  },
+  {
+    "id": "warped_planks",
+    "name": "Warped Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/warped_planks.png"
+  },
+  {
+    "id": "crimson_planks",
+    "name": "Crimson Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/crimson_planks.png"
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/sand.png"
+  },
+  {
+    "id": "red_sand",
+    "name": "Red Sand",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/red_sand.png"
+  },
+  {
+    "id": "ancient_debris",
+    "name": "Ancient Debris",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/ancient_debris_side.png"
+  },
+  {
+    "id": "bricks",
+    "name": "Bricks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/bricks.png"
+  },
+  {
+    "id": "cactus",
+    "name": "Cactus",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/cactus_side.png"
+  },
+  {
+    "id": "ice",
+    "name": "Ice",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/ice.png"
+  },
+  {
+    "id": "mossy_cobblestone",
+    "name": "Mossy Cobblestone",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/mossy_cobblestone.png"
+  },
+  {
+    "id": "mossy_stone_bricks",
+    "name": "Mossy Stone Bricks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/mossy_stone_bricks.png"
+  },
+  {
+    "id": "melon_block",
+    "name": "Melon Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/melon_side.png"
+  },
+  {
+    "id": "nether_quartz_ore",
+    "name": "Nether Quartz Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/nether_quartz_ore.png"
+  },
+  {
+    "id": "nether_gold_ore",
+    "name": "Nether Gold Ore",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/nether_gold_ore.png"
+  },
+  {
+    "id": "shulker_box",
+    "name": "Shulker Box",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/shulker_box.png"
+  },
+  {
+    "id": "dirt",
+    "name": "Dirt",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/dirt.png"
+  },
+  {
+    "id": "powered_rail_on",
+    "name": "Powered Rail (On)",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/powered_rail_on.png"
+  },
+  {
+    "id": "coarse_dirt",
+    "name": "Coarse Dirt",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/coarse_dirt.png"
+  },
+  {
+    "id": "sea_lantern",
+    "name": "Sea Lantern",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/sea_lantern.png"
+  },
+  {
+    "id": "purpur_block",
+    "name": "Purpur Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/purpur_block.png"
+  },
+  {
+    "id": "bamboo_planks",
+    "name": "Bamboo Planks",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/bamboo_planks.png"
+  },
+  {
+    "id": "bee_nest",
+    "name": "Bee Nest",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/bee_nest_front.png"
+  },
+  {
+    "id": "command_block",
+    "name": "Command Block",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/command_block_front.png"
+  },
+  {
+    "id": "sticky_piston",
+    "name": "Sticky Piston (Top)",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/piston_top_sticky.png"
+  },
+  {
+    "id": "fire",
+    "name": "Fire",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/fire_0.png"
+  },
+  {
+    "id": "soul_fire",
+    "name": "Soul Fire",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/soul_fire_0.png"
+  },
+  {
+  "id": "crying_obsidian",
+  "name": "Crying Obsidian",
+  "category": "block",
+  "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/crying_obsidian.png"
+  },
+  {
+    "id": "brewing_stand",
+    "name": "Brewing Stand",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/brewing_stand.png"
+  },
+  {
+    "id": "end_portal_frame_top",
+    "name": "End Portal Frame (Top)",
+    "category": "block",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/end_portal_frame_top.png"
+  },
+
+  {
+    "id": "diamond",
+    "name": "Diamond",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/diamond.png"
+  },
+  {
+    "id": "emerald",
+    "name": "Emerald",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/emerald.png"
+  },
+  {
+    "id": "gold_ingot",
+    "name": "Gold Ingot",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/gold_ingot.png"
+  },
+  {
+    "id": "firework_rocket",
+    "name": "Firework",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/firework_rocket.png"
+  },
+  {
+    "id": "netherite_ingot",
+    "name": "Netherite Ingot",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/netherite_ingot.png"
+  },
+  {
+    "id": "redstone_dust",
+    "name": "Redstone Dust",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/redstone.png"
+  },
+  {
+    "id": "lapis_lazuli",
+    "name": "Lapis Lazuli",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/lapis_lazuli.png"
+  },
+  {
+    "id": "golden_apple",
+    "name": "Golden Apple",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/golden_apple.png"
+  },
+  {
+    "id": "ender_pearl",
+    "name": "Ender Pearl",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/ender_pearl.png"
+  },
+  {
+    "id": "eye_of_ender",
+    "name": "Eye of Ender",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/ender_eye.png"
+  },
+  {
+    "id": "totem_of_undying",
+    "name": "Totem of Undying",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/totem_of_undying.png"
+  },
+  {
+    "id": "blaze_rod",
+    "name": "Blaze Rod",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/blaze_rod.png"
+  },
+  {
+    "id": "blaze_powder",
+    "name": "Blaze Powder",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/blaze_powder.png"
+  },
+  {
+    "id": "nether_star",
+    "name": "Nether Star",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/nether_star.png"
+  },
+  {
+    "id": "enchanted_book",
+    "name": "Enchanted Book",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/enchanted_book.png"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/apple.png"
+  },
+  {
+    "id": "carrot",
+    "name": "Carrot",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/carrot.png"
+  },
+  {
+    "id": "cookie",
+    "name": "Cookie",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cookie.png"
+  },
+  {
+    "id": "compass",
+    "name": "Compass",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/compass_16.png"
+  },
+  {
+    "id": "clock",
+    "name": "Clock",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/clock_00.png"
+  },
+  {
+    "id": "netherite_axe",
+    "name": "Netherite Axe",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/netherite_axe.png"
+  },
+  {
+    "id": "diamond_sword",
+    "name": "Diamond Sword",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/diamond_sword.png"
+  },
+  {
+    "id": "golden_hoe",
+    "name": "Gold Hoe",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/golden_hoe.png"
+  },
+  {
+    "id": "iron_shovel",
+    "name": "Iron Shovel",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/iron_shovel.png"
+  },
+  {
+    "id": "stone_axe",
+    "name": "Stone Axe",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/stone_axe.png"
+  },
+  {
+    "id": "wooden_pickaxe",
+    "name": "Wood Pickaxe",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/wooden_pickaxe.png"
+  },
+  {
+    "id": "copper_pickaxe",
+    "name": "Copper Pickaxe",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/copper_pickaxe.png"
+  },
+  {
+    "id": "bow",
+    "name": "Bow",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/bow.png"
+  },
+  {
+    "id": "fishing_rod",
+    "name": "Fishing Rod",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/fishing_rod.png"
+  },
+  {
+    "id": "wheat_seeds",
+    "name": "Wheat Seeds",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/wheat_seeds.png"
+  },
+  {
+    "id": "raw_beef",
+    "name": "Raw Beef",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/beef.png"
+  },
+  {
+    "id": "raw_chicken",
+    "name": "Raw Chicken",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/chicken.png"
+  },
+  {
+    "id": "raw_cod",
+    "name": "Raw Cod",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cod.png"
+  },
+  {
+    "id": "raw_mutton",
+    "name": "Raw Mutton",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/mutton.png"
+  },
+  {
+    "id": "raw_porkchop",
+    "name": "Raw Porkchop",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/porkchop.png"
+  },
+  {
+    "id": "raw_rabbit",
+    "name": "Raw Rabbit",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/rabbit.png"
+  },
+  {
+    "id": "raw_salmon",
+    "name": "Raw Salmon",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/salmon.png"
+  },
+  {
+    "id": "steak",
+    "name": "Steak",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_beef.png"
+  },
+  {
+    "id": "cooked_chicken",
+    "name": "Cooked Chicken",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_chicken.png"
+  },
+  {
+    "id": "cooked_cod",
+    "name": "Cooked Cod",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_cod.png"
+  },
+  {
+    "id": "cooked_mutton",
+    "name": "Cooked Mutton",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_mutton.png"
+  },
+  {
+    "id": "cooked_porkchop",
+    "name": "Cooked Porkchop",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_porkchop.png"
+  },
+  {
+    "id": "cooked_rabbit",
+    "name": "Cooked Rabbit",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_rabbit.png"
+  },
+  {
+    "id": "cooked_salmon",
+    "name": "Cooked Salmon",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cooked_salmon.png"
+  },
+  {
+    "id": "rotten_flesh",
+    "name": "Rotten Flesh",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/rotten_flesh.png"
+  },
+  {
+    "id": "bamboo",
+    "name": "Bamboo",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/bamboo.png"
+  },
+  {
+    "id": "slimeball",
+    "name": "Slimeball",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/slime_ball.png"
+  },
+  {
+    "id": "leather",
+    "name": "Leather",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/leather.png"
+  },
+  {
+    "id": "water_bucket",
+    "name": "Water Bucket",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/water_bucket.png"
+  },
+  {
+    "id": "lava_bucket",
+    "name": "Lava Bucket",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/lava_bucket.png"
+  },
+  {
+    "id": "book",
+    "name": "Book",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/book.png"
+  },
+  {
+    "id": "magma_cream",
+    "name": "Magma Cream",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/magma_cream.png"
+  },
+  {
+    "id": "shears",
+    "name": "Shears",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/shears.png"
+  },
+  {
+    "id": "bread",
+    "name": "Bread",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/bread.png"
+  },
+  {
+    "id": "cake",
+    "name": "Cake",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cake.png"
+  },
+  {
+    "id": "golden_carrot",
+    "name": "Golden Carrot",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/golden_carrot.png"
+  },
+  {
+    "id": "glow_berries",
+    "name": "Glow Berries",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/glow_berries.png"
+  },
+  {
+    "id": "melon_slice",
+    "name": "Melon Slice",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/melon_slice.png"
+  },
+  {
+    "id": "baked_potato",
+    "name": "Baked Potato",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/baked_potato.png"
+  },
+  {
+    "id": "poisonous_potato",
+    "name": "Poisonous Potato",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/poisonous_potato.png"
+  },
+  {
+    "id": "saddle",
+    "name": "Saddle",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/saddle.png"
+  },
+  {
+    "id": "fire_charge",
+    "name": "Fire Charge",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/fire_charge.png"
+  },
+  {
+    "id": "amethyst_shard",
+    "name": "Amethyst Shard",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/amethyst_shard.png"
+  },
+  {
+    "id": "bundle",
+    "name": "Bundle",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/bundle.png"
+  },
+  {
+    "id": "copper_helmet",
+    "name": "Copper Helmet",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/copper_helmet.png"
+  },
+  {
+    "id": "golden_chestplate",
+    "name": "Golden Chestplate",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/golden_chestplate.png"
+  },
+  {
+    "id": "copper_leggings",
+    "name": "Copper Leggings",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/copper_leggings.png"
+  },
+  {
+    "id": "diamond_boots",
+    "name": "Diamond Boots",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/diamond_boots.png"
+  },
+  {
+    "id": "beetroot",
+    "name": "Beetroot",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/beetroot.png"
+  },
+  {
+    "id": "name_tag",
+    "name": "Nametag",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/name_tag.png"
+  },
+  {
+    "id": "chorus_fruit",
+    "name": "Chorus Fruit",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/chorus_fruit.png"
+  },
+  {
+    "id": "suspicious_stew",
+    "name": "Suspicious Stew",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/suspicious_stew.png"
+  },
+  {
+    "id": "spyglass",
+    "name": "Spyglass",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/spyglass.png"
+  },
+  {
+    "id": "pufferfish",
+    "name": "Pufferfish",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/pufferfish.png"
+  },
+  {
+    "id": "spider_eye",
+    "name": "Spider Eye",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/spider_eye.png"
+  },
+  {
+    "id": "fermented_spider_eye",
+    "name": "Fermented Spider Eye",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/fermented_spider_eye.png"
+  },
+  {
+    "id": "brick",
+    "name": "Brick",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/brick.png"
+  },
+  {
+    "id": "heart_of_the_sea",
+    "name": "Heart of the Sea",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/heart_of_the_sea.png"
+  },
+  {
+    "id": "glistering_melon_slice",
+    "name": "Glistering Melon Slice",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/glistering_melon_slice.png"
+  },
+  {
+    "id": "glowstone_dust",
+    "name": "Glowstone Dust",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/glowstone_dust.png"
+  },
+  {
+    "id": "nether_wart",
+    "name": "Nether Wart",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/nether_wart.png"
+  },
+  {
+    "id": "netherite_upgrade",
+    "name": "Netherite Upgrade",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/netherite_upgrade_smithing_template.png"
+  },
+  {
+    "id": "raw_gold",
+    "name": "Raw Gold",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/raw_gold.png"
+  },
+  {
+    "id": "raw_iron",
+    "name": "Raw Iron",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/raw_iron.png"
+  },
+  {
+    "id": "raw_copper",
+    "name": "Raw Copper",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/raw_copper.png"
+  },
+  {
+    "id": "carrot_on_a_stick",
+    "name": "Carrot on a Stick",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/carrot_on_a_stick.png"
+  },
+  {
+    "id": "copper_horse_armor",
+    "name": "Copper Horse Armor",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/copper_horse_armor.png"
+  },
+  {
+    "id": "spectral_arrow",
+    "name": "Spectral Arrow",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/spectral_arrow.png"
+  },
+  {
+    "id": "torch",
+    "name": "Torch",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/torch.png"
+  },
+  {
+    "id": "redstone_torch",
+    "name": "Redstone Torch",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/redstone_torch.png"
+  },
+  {
+    "id": "soul_torch",
+    "name": "Soul Torch",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/soul_torch.png"
+  },
+  {
+    "id": "copper_torch",
+    "name": "Copper Torch",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/block/copper_torch.png"
+  },
+  {
+    "id": "glow_ink_sac",
+    "name": "Glow Ink Sac",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/glow_ink_sac.png"
+  },
+  {
+    "id": "prismarine_shard",
+    "name": "Prismarine Shard",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/prismarine_shard.png"
+  },
+  {
+    "id": "prismarine_crystals",
+    "name": "Prismarine Crystal",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/prismarine_crystals.png"
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/egg.png"
+  },
+  {
+    "id": "turtle_egg",
+    "name": "Turtle Egg",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/turtle_egg.png"
+  },
+  {
+    "id": "cocoa_beans",
+    "name": "Cocoa Beans",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/cocoa_beans.png"
+  },
+  {
+    "id": "kelp",
+    "name": "Kelp",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/kelp.png"
+  },
+  {
+    "id": "experience_bottle",
+    "name": "Bottle o' Enchanting",
+    "category": "item",
+    "texture": "https://assets.mcasset.cloud/26.1.2/assets/minecraft/textures/item/experience_bottle.png"
+  }
+]

@@ -1,0 +1,293 @@
+@import url('https://fonts.cdnfonts.com/css/minecraft-3');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root,
+  [data-theme="dark"] {
+    --background: #111111;
+    --foreground: #f2f2f2;
+    --muted: rgba(242, 242, 242, 0.45);
+    --border: rgba(255, 255, 255, 0.1);
+    --panel: rgba(0, 0, 0, 0.55);
+    --panel-hover: rgba(255, 255, 255, 0.06);
+    --preview: rgba(0, 0, 0, 0.35);
+    --accent: #5cdb5c;
+    --accent-fg: #111111;
+    --slider-track: rgba(255, 255, 255, 0.12);
+    --slider-thumb: #5cdb5c;
+    --slider-thumb-border: #ffffff;
+  }
+
+  [data-theme="light"] {
+    --background: #f0f0eb;
+    --foreground: #1a1a1a;
+    --muted: rgba(26, 26, 26, 0.5);
+    --border: rgba(0, 0, 0, 0.1);
+    --panel: rgba(255, 255, 255, 0.85);
+    --panel-hover: rgba(0, 0, 0, 0.04);
+    --preview: rgba(0, 0, 0, 0.04);
+    --accent: #3d9b3d;
+    --accent-fg: #ffffff;
+    --slider-track: rgba(0, 0, 0, 0.1);
+    --slider-thumb: #3d9b3d;
+    --slider-thumb-border: #ffffff;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body,
+  .theme-transition,
+  .game-panel,
+  .utility-btn,
+  .mode-toggle-option {
+    transition:
+      background-color 0.35s ease,
+      color 0.35s ease,
+      border-color 0.35s ease,
+      box-shadow 0.35s ease;
+  }
+
+  body {
+    @apply min-h-screen font-body antialiased;
+    background-color: var(--background);
+    color: var(--foreground);
+    background-image: radial-gradient(
+      ellipse at 50% 30%,
+      color-mix(in srgb, var(--accent) 5%, transparent) 0%,
+      transparent 60%
+    );
+  }
+
+  .font-minecraft {
+    font-family: 'Minecraft', sans-serif;
+    font-weight: 400;
+  }
+}
+
+@layer components {
+  .game-panel {
+    border-radius: 1.75rem;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.18);
+  }
+
+  .slider-input {
+    background: var(--slider-track);
+  }
+
+  .slider-input:not(.slider-vertical) {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .slider-input::-webkit-slider-thumb {
+    appearance: none;
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 9999px;
+    border: 2px solid var(--slider-thumb-border);
+    background: var(--slider-thumb);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    transition: transform 0.1s;
+  }
+
+  .slider-input::-webkit-slider-thumb:active {
+    transform: scale(1.1);
+  }
+
+  .slider-input::-moz-range-thumb {
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 9999px;
+    border: 2px solid var(--slider-thumb-border);
+    background: var(--slider-thumb);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+
+  .slider-vertical {
+    writing-mode: vertical-lr;
+    direction: rtl;
+    width: 0.625rem;
+    height: 150px;
+    background: var(--slider-track);
+  }
+
+  .slider-vertical::-webkit-slider-thumb {
+    appearance: none;
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 9999px;
+    border: 2px solid var(--slider-thumb-border);
+    background: var(--slider-thumb);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+
+  .slider-vertical::-moz-range-thumb {
+    height: 1.25rem;
+    width: 1.25rem;
+    border-radius: 9999px;
+    border: 2px solid var(--slider-thumb-border);
+    background: var(--slider-thumb);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+}
+
+@layer utilities {
+  .text-foreground {
+    color: var(--foreground);
+  }
+  .text-muted {
+    color: var(--muted);
+  }
+  .text-background {
+    color: var(--background);
+  }
+  .text-accent {
+    color: var(--accent);
+  }
+  .text-accent-fg {
+    color: var(--accent-fg);
+  }
+  .text-score-good {
+    color: #facc15;
+  }
+  .text-score-close {
+    color: #fb923c;
+  }
+  .text-score-keep-trying {
+    color: #f87171;
+  }
+  .bg-panel {
+    background: var(--panel);
+  }
+  .bg-panel-hover {
+    background: var(--panel-hover);
+  }
+  .bg-preview {
+    background: var(--preview);
+  }
+  .bg-accent {
+    background: var(--accent);
+  }
+  .bg-background {
+    background: var(--background);
+  }
+  .border-border {
+    border-color: var(--border);
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.4s ease-out forwards;
+  }
+
+  .typewriter-cursor-blink {
+    animation: cursorBlink 1s step-end infinite;
+  }
+
+  .utility-btn {
+    @apply flex h-10 w-10 items-center justify-center rounded-full border border-border bg-panel text-foreground text-opacity-70;
+  }
+
+  .utility-btn:hover {
+    background: var(--panel-hover);
+    color: var(--foreground);
+  }
+
+  .soon-splash {
+    position: absolute;
+    top: -0.85rem;
+    left: 1.65rem;
+    font-family: "Minecraft", sans-serif;
+    font-size: 0.7rem;
+    color: #ffff55;
+    text-shadow: 1px 1px 0 #3f3f00;
+    transform: rotate(-18deg);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+  }
+
+  .mode-toggle {
+    position: relative;
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 9999px;
+    border: 1px solid var(--border);
+    background: var(--panel);
+    padding: 3px;
+    min-width: 220px;
+  }
+
+  .mode-toggle-thumb {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: calc(50% - 3px);
+    height: calc(100% - 6px);
+    border-radius: 9999px;
+    background: var(--foreground);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .mode-toggle-option {
+    position: relative;
+    z-index: 1;
+    border-radius: 9999px;
+    padding: 0.5rem 1rem;
+    font-family: inherit;
+    font-size: 0.875rem;
+    text-align: center;
+    color: var(--muted);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+
+  .mode-toggle-active {
+    color: var(--background);
+    font-weight: 500;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes cursorBlink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+@keyframes sprite-scroll {
+  from { background-position-y: 0%; }
+  to { background-position-y: 100%; }
+}
+
+.texture-sprite {
+  background-repeat: no-repeat;
+  background-position-y: 0%;
+  background-size: 100% auto;
+}
