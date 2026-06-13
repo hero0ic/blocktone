@@ -1,4 +1,4 @@
-# BlockTone
+# BlockTone - Minecraft Color Guessing Game
 
 Restore distorted Minecraft textures by adjusting HSV sliders. Inspired by [Dialed.gg](https://dialed.gg) and Toon-Tone.
 
