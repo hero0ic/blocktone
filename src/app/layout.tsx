@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import { VolumeProvider } from "@/components/VolumeProvider";
 import {
@@ -79,6 +80,7 @@ export default function RootLayout({
         <ThemeProvider>
           <VolumeProvider>{children}</VolumeProvider>
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
