@@ -55,7 +55,6 @@ export default function GameSession({ category }: GameSessionProps) {
   const distortionHsv = useMemo(() => {
     if (!challenge) return { h: 0, s: 100, v: 100 };
     return randomDistortionHsv(hsvLimits);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [challenge?.id, roundKey]);
 
   useEffect(() => {
